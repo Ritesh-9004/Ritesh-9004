@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ritesh Dahake</h1>
 <p align="center"><b></b>CSE Student | Android Developer | Tech Explorer</b></p>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=aRitesh-9004.Ritesh-9004&left_color=green&right_color=blue)
+
 
 ##
 - 🚀 Currently exploring cross-platform mobile development using **Flutter** and **Dart**,.  
