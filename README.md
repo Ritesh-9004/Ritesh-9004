@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Ritesh Dahake</h1>
-<p align="center"><b></b>CSE Student | Android Developer | Tech Explorer</b></p>
+<p align="center"><b></b>CSE Student | Exploring Android Development | Learning By Doing </b></p>
 
 
 
 ##
-- 🚀 Currently exploring cross-platform mobile development using **Flutter** and **Dart**,.  
-- 🛠️ I enjoy building projects that solve real-world problems, experimenting with custom tools, and learning new technologies.
+-  Currently exploring cross-platform mobile development using **Flutter** and **Dart**,.  
+-  I enjoy building projects that solve real-world problems, experimenting with custom tools, and learning new technologies.
 ##
 
 
