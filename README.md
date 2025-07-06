@@ -10,7 +10,7 @@
 
 
  
-## 💻 Tech Stack
+## Tech Stack
 
 
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) (Basic) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) (Basic) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) (Basic) |
@@ -18,15 +18,26 @@
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) (Learning) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) (Intermediate) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) (Basic) |
 | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) (Intermediate) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) / ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |  |
 |  |
-##
-## 📫 Let's Connect
+---
+##  Projects
+
+| Type            | Project Title       | Tech Stack                  | Link                           |
+|-----------------|---------------------|-----------------------------|--------------------------------|
+| Personal        | flutter-code-viewer-web            | HTML, CSS, JS, GitHub Page      | [GitHub](https://github.com/Ritesh-9004/flutter-code-viewer-web)                    |
+| Academic        | AGV Forklift        | Ardunio, Motors, IR      | [GitHub](https://github.com/Ritesh-9004/Academic/tree/main/Diploma/Project/AGV%20FORKLIFT)                   |
+| Hackathon 🥉     | Green Office Tracker | Flutter, REST API,Dart   | [GitHub](https://github.com/Ritesh-9004/Green-Office-Tracker.git)                    |
+| Learning        | Java Calculator     | Java, Swing, AWT, Stack     | [GitHub](https://github.com/Ritesh-9004/BasicCalculator-JavaSwing)                    |
+| Learning        | Chatlogix            | Java, Sockets (TCP/IP), MySQL, JDBC, Eclipse IDE   | [GitHub](https://github.com/Ritesh-9004/Chatlogix)                    |
+
+---
+
+##  Let's Connect
 <a href="https://www.linkedin.com/in/ritesh-dahake-07533a26a" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn">
 </a>
 
 
 ---
-
 
 
 
