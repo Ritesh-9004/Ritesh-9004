@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I'm Ritesh Dahake</h1>
-<p align="center"><b></b>CSE Student | Exploring Android Development | Learning By Doing </b></p>
+<p align="center"><b></b>Final year CSE Student | Mechatronics/Electronics Background| Building My Way into Embedded Systems & Android </b></p>
 
 
 
 ##
--  Currently exploring cross-platform mobile development using **Flutter** and **Dart**,.  
--  I enjoy building projects that solve real-world problems, experimenting with custom tools, and learning new technologies.
+- I am a final-year Computer Science student with a background in both hardware and software. 
+- My journey has been about understanding how a product is built—from the physical movement and circuit design to the software that controls it.  I want to build applications that don't just stay on a screen, but actually interact with the physical world.
+- I enjoy the challenge of making hardware "smart" by creating mobile interfaces to control it. Whether it is an IoT solution or a mobile app, I am driven by building tools that solve practical, real-world problems.
 ##
 
 
@@ -23,6 +24,7 @@
 
 | Type            | Project Title       | Tech Stack                  | Link                           |
 |-----------------|---------------------|-----------------------------|--------------------------------|
+| Personal        | stm32-pzem004t         | STM32F103C8T6 (Blue Pill),PZEM-004T v4.0, STM32CubeIDE, Embedded C, STM32 HAL, UART Communication     | [GitHub](https://github.com/Ritesh-9004/stm32-pzem004t)                    |
 | Personal        | flutter-code-viewer-web            | HTML, CSS, JS, GitHub Page      | [GitHub](https://github.com/Ritesh-9004/flutter-code-viewer-web)                    |
 | Academic        | AGV Forklift        | Ardunio, Motors, IR      | [GitHub](https://github.com/Ritesh-9004/Academic/tree/main/Diploma/Project/AGV%20FORKLIFT)                   |
 | Hackathon 🥉     | Green Office Tracker | Flutter, REST API,Dart   | [GitHub](https://github.com/Ritesh-9004/Green-Office-Tracker.git)                    |
