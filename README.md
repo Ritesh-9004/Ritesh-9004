@@ -32,7 +32,7 @@
 ---
 
 ##  Let's Connect
-<a href="https://www.linkedin.com/in/ritesh-dahake-07533a26a" target="_blank">
+<a href="https://www.linkedin.com/in/ritesh9004" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn">
 </a>
 
