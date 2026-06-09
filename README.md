@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=1000\&lines=Hey+there%2C+I'm+Ritesh+%F0%9F%91%8B;CSE+Student+%7C+Mechatronics+Background;IT+TECH+SUPPORT+%7C+EMBEDDED+SYSTEM+DEVELOPER+%7C+BACKEND+DEV)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ritesh-9004&label=Profile+Views&color=0e75b6&style=flat" alt="profile views">
 
 </div>
 
@@ -25,11 +24,11 @@ Developer ritesh = {
     .interests = {
         "Embedded Systems",
         "Application Development",
-        "IoT",
+        "IT Tech Support",
         "Backend Systems"
     },
 
-    .philosophy = "Build things that don't just stay on a screen"
+    .philosophy = "Creating systems that solve real-world problems"
 };
 ```
 
@@ -45,7 +44,7 @@ Developer ritesh = {
 
 | 🔧 Project                  | 📝 Description                                                            | 🏷️ Stack                                                | 🔗                                                                   |
 | --------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
-| **CityPulse** 🥇            | Hackathon-winning Android city utility app with maps & real-time services | `Kotlin` `Firebase` `Google Maps` `Coroutines`           | [Repository](https://github.com/Ritesh-9004/CityPulse)               |
+| **CityPulse** 🥇            | Hackathon-winning Android city utility app with maps & real-time services | `Kotlin` `Firebase` `Google Maps` `Coroutines`           | [Repository](https://github.com/Sank-et-GIT/CityPulse)               |
 | **VantaPM**                 | Universal MCU package manager & registry with compatibility analysis      | `Next.js 15` `React 19` `Python` `PostgreSQL` `Tailwind` | [Repository](https://github.com/Ritesh-9004/VantaPM)                 |
 | **stm32-pzem004t**          | STM32 HAL driver for PZEM-004T energy monitor using Modbus RTU/UART       | `C` `STM32` `Embedded C` `UART`                          | [Repository](https://github.com/Ritesh-9004/stm32-pzem004t)          |
 | **Green Office Tracker** 🥉 | Flutter-based sustainability & carbon tracking platform                   | `Flutter` `Dart` `REST API`                              | [Repository](https://github.com/Ritesh-9004/Green-Office-Tracker)    |
@@ -64,9 +63,7 @@ Developer ritesh = {
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
@@ -77,7 +74,6 @@ Developer ritesh = {
 <p align="center">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
@@ -184,8 +180,5 @@ Developer ritesh = {
 
 <div align="center">
 
-### ✨ Motto
-
-<i>"Build things that don't just stay on a screen."</i>
 
 </div>
