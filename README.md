@@ -13,7 +13,7 @@
 
 ```cpp id="lxu8oq"
 Developer ritesh = {
-    .role = "Final Year CSE Student",
+    .role = "CSE Student",
 
     .background = {
         "Mechatronics",
