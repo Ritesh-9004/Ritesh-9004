@@ -36,7 +36,6 @@ Developer ritesh = {
 * 🥉 Hackathon: **Green Office Tracker** — Flutter-based sustainability tracker
 * 💡 Passionate about bridging **hardware intelligence** with **software systems**
 * 🌱 Exploring **Application Development, Embedded Workflows & Backend Systems**
-* 📍 Pune, India
 
 ---
 
