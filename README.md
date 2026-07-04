@@ -1,41 +1,14 @@
 <!-- Header Typing Animation -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=1000\&lines=Hey+there%2C+I'm+Ritesh+%F0%9F%91%8B;CSE+Student+%7C+Mechatronics+Background;IT+TECH+SUPPORT+%7C+EMBEDDED+SYSTEM+DEVELOPER+%7C+BACKEND+DEV)](https://git.io/typing-svg)
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Ritesh+%F0%9F%91%8B;WEB+%E2%80%A2+ANDROID+%E2%80%A2+IOT+%26+EMBEDDED+SYSTEMS)](https://git.io/typing-svg)
 
 
 </div>
 
----
+![About me](./assets/about-me-timeline.svg)
 
-# 🧠 About Me
-
-```cpp id="lxu8oq"
-Developer ritesh = {
-    .role = "CSE Student",
-
-    .background = {
-        "Mechatronics",
-        "Electronics",
-        "Computer Science"
-    },
-
-    .interests = {
-        "Embedded Systems",
-        "Application Development",
-        "IT Tech Support",
-        "Backend Systems"
-    },
-
-    .philosophy = "Creating systems that solve real-world problems"
-};
-```
-
-* 🏆 Hackathon 🥇: **CityPulse** — Android app built with Kotlin, Firebase & Maps
-* 🥉 Hackathon: **Green Office Tracker** — Flutter-based sustainability tracker
-* 💡 Passionate about bridging **hardware intelligence** with **software systems**
-* 🌱 Exploring **Application Development, Embedded Workflows & Backend Systems**
 
 ---
 
@@ -53,47 +26,6 @@ Developer ritesh = {
 
 ---
 
-# 🛠️ Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-</p>
-
-## Frameworks & Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-
-</p>
-
-## Databases & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-
-</p>
-
----
 
 # 📊 GitHub Analytics
 
