@@ -1,33 +1,35 @@
-<svg width="480" height="620" viewBox="0 0 480 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="100%" viewBox="0 0 960 620" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc">
   <title id="title">About me</title>
-  <desc id="desc">Ritesh, CSE student and developer. Background in mechatronics, electronics and computer science. Interests: embedded systems, application development, IT tech support, backend systems. Hackathons: CityPulse, Green Office Tracker. Philosophy: creating systems that solve real world problems.</desc>
+  <desc id="desc">Ritesh, software and hardware developer. Background in mechatronics, electronics and computer science engineering. Interests: embedded systems, application development, IoT systems, backend systems. Hackathons: CityPulse, Green Office Tracker. Tech stack: C, C++, Java, Dart, Flutter, Android, Arduino, STM32, Firebase, MySQL, PostgreSQL, Git. Philosophy: creating systems that solve real world problems.</desc>
 
-  <rect x="1" y="1" width="478" height="618" rx="18" fill="#0a0f0e" stroke="#163430" stroke-width="1.5"/>
+  <rect x="1" y="1" width="958" height="618" rx="18" fill="#0a0f0e" stroke="#163430" stroke-width="1.5"/>
+
+  <line x1="480" y1="40" x2="480" y2="560" stroke="#16302c" stroke-width="1"/>
 
   <circle cx="46" cy="52" r="27" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.6"/>
   <text x="46" y="60" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="bold" fill="#e6fbf7" text-anchor="middle">R</text>
 
   <text x="88" y="48" font-family="Verdana, Arial, sans-serif" font-size="23" font-weight="bold" fill="#eef6f4">About me</text>
-  <text x="88" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#5eead4">CSE student &amp; developer</text>
+  <text x="88" y="70" font-family="Verdana, Arial, sans-serif" font-size="13" fill="#5eead4">Software &amp; hardware developer</text>
 
-  <text x="46" y="102" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#93a3a0" text-anchor="middle">Creating systems that</text>
-  <text x="46" y="119" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#93a3a0" text-anchor="middle">solve real-world problems</text>
+  <text x="8" y="102" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#93a3a0">Creating systems that solve</text>
+  <text x="8" y="119" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#93a3a0">real-world problems.</text>
 
   <line x1="46" y1="152" x2="46" y2="520" stroke="#134e4a" stroke-width="2" stroke-dasharray="1,6" stroke-linecap="round"/>
 
   <circle cx="46" cy="152" r="17" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.4"/>
   <text x="46" y="158" font-family="Verdana, Arial, sans-serif" font-size="15" text-anchor="middle">🎓</text>
   <text x="88" y="148" font-family="Verdana, Arial, sans-serif" font-size="15.5" font-weight="bold" fill="#5eead4">Background</text>
+  <text x="88" y="209" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Computer science engineering</text>
   <text x="88" y="171" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Mechatronics</text>
   <text x="88" y="190" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Electronics</text>
-  <text x="88" y="209" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Computer science</text>
 
   <circle cx="46" cy="252" r="17" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.4"/>
   <text x="46" y="258" font-family="Verdana, Arial, sans-serif" font-size="14" text-anchor="middle">❤️</text>
   <text x="88" y="248" font-family="Verdana, Arial, sans-serif" font-size="15.5" font-weight="bold" fill="#5eead4">Interests</text>
-  <text x="88" y="271" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Embedded systems</text>
   <text x="88" y="290" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Application development</text>
-  <text x="88" y="309" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">IT tech support</text>
+  <text x="88" y="271" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Embedded systems</text>
+  <text x="88" y="309" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">IoT systems</text>
   <text x="88" y="328" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#cdd8d6">Backend systems</text>
 
   <circle cx="46" cy="382" r="17" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.4"/>
@@ -44,5 +46,68 @@
   <text x="88" y="519" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#cdd8d6">Creating systems that</text>
   <text x="88" y="537" font-family="Georgia, serif" font-style="italic" font-size="12.5" fill="#cdd8d6">solve real-world problems</text>
 
-  <text x="440" y="596" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#2c4844" text-anchor="end">bridging hardware &amp; software</text>
+  <text x="520" y="48" font-family="Verdana, Arial, sans-serif" font-size="18" font-weight="bold" fill="#eef6f4">Tech stack</text>
+  <text x="520" y="70" font-family="Verdana, Arial, sans-serif" font-size="12.5" fill="#93a3a0">Languages, frameworks &amp; tools</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="11.5" fill="#cdd8d6">
+    <rect x="520" y="88" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="585" y="106" text-anchor="middle">C</text>
+
+    <rect x="662" y="88" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="727" y="106" text-anchor="middle">C++</text>
+
+    <rect x="804" y="88" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="869" y="106" text-anchor="middle">Java</text>
+
+    <rect x="520" y="124" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="585" y="142" text-anchor="middle">Dart</text>
+
+    <rect x="662" y="124" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="727" y="142" text-anchor="middle">Flutter</text>
+
+    <rect x="804" y="124" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="869" y="142" text-anchor="middle">Android</text>
+
+    <rect x="520" y="160" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="585" y="178" text-anchor="middle">Arduino</text>
+
+    <rect x="662" y="160" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="727" y="178" text-anchor="middle">STM32</text>
+
+    <rect x="804" y="160" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="869" y="178" text-anchor="middle">Firebase</text>
+
+    <rect x="520" y="196" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="585" y="214" text-anchor="middle">MySQL</text>
+
+    <rect x="662" y="196" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="727" y="214" text-anchor="middle">PostgreSQL</text>
+
+    <rect x="804" y="196" width="130" height="28" rx="7" fill="#0f2e2b" stroke="#1d4a44" stroke-width="1"/>
+    <text x="869" y="214" text-anchor="middle">Git</text>
+  </g>
+
+
+  <text x="520" y="298" font-family="Verdana, Arial, sans-serif" font-size="18" font-weight="bold" fill="#eef6f4">Find me on</text>
+
+  <a xlink:href="https://github.com/Ritesh-9004" target="_blank">
+    <rect x="520" y="316" width="150" height="34" rx="8" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.2"/>
+    <text x="595" y="338" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#5eead4" text-anchor="middle">GitHub ↗</text>
+  </a>
+
+  <a xlink:href="https://www.linkedin.com/in/ritesh9004" target="_blank">
+    <rect x="680" y="316" width="150" height="34" rx="8" fill="#0f2e2b" stroke="#2dd4bf" stroke-width="1.2"/>
+    <text x="755" y="338" font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="bold" fill="#5eead4" text-anchor="middle">LinkedIn ↗</text>
+  </a>
+
+  <g stroke="#12211d" stroke-width="1.4" fill="none">
+    <circle cx="560" cy="420" r="3" fill="#12211d"/>
+    <circle cx="700" cy="420" r="3" fill="#12211d"/>
+    <circle cx="700" cy="490" r="3" fill="#12211d"/>
+    <circle cx="850" cy="490" r="3" fill="#12211d"/>
+    <circle cx="850" cy="420" r="3" fill="#12211d"/>
+    <path d="M560,420 L700,420 L700,490 L850,490 M700,420 L850,420"/>
+  </g>
+
+  <text x="520" y="596" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#2c4844">bridging hardware &amp; software</text>
 </svg>
